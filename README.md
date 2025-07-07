@@ -2,11 +2,15 @@
 # Smart-irrigation-System-
 # 🌿 Automatic Smart Irrigation System
 
+<div align="center">
+
 [![Author: Ankur Gupta](https://img.shields.io/badge/Author-Ankur%20Gupta-blue?style=flat-square)](https://example.com)  
 [![Author: Harshit Gupta](https://img.shields.io/badge/Author-Harshit%20Gupta-green?style=flat-square)](https://example.com)  
 [![Author: Shivam Giri](https://img.shields.io/badge/Author-Shivam%20Giri-red?style=flat-square)](https://example.com)  
 [![Author: Abhinav Raj](https://img.shields.io/badge/Author-Abhinav%20Raj-orange?style=flat-square)](https://example.com)  
 [![Author: Parth Gupta](https://img.shields.io/badge/Author-Parth%20Gupta-yellow?style=flat-square)](https://example.com)
+
+</div>
 
 An open‑source automatic irrigation system that measures soil moisture and water depth, then triggers watering only when needed...
 
